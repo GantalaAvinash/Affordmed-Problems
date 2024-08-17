@@ -1,0 +1,16 @@
+{
+  "companyName": "Malla Reddy Enginnering College",
+  "clientID": "0d375f14-2ded-4786-b4b8-4940950b699e",
+  "clientSecret": "VUEYgNvjyoyqgHgP",
+  "ownerName": "Gantala Avinash",
+  "ownerEmail": "gantalaavinash@gmail.com",
+  "rollNo": "21J41A62F1"
+}
+
+
+
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIzODc1OTk3LCJpYXQiOjE3MjM4NzU2OTcsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjBkMzc1ZjE0LTJkZWQtNDc4Ni1iNGI4LTQ5NDA5NTBiNjk5ZSIsInN1YiI6ImdhbnRhbGFhdmluYXNoQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6Ik1hbGxhIFJlZGR5IEVuZ2lubmVyaW5nIENvbGxlZ2UiLCJjbGllbnRJRCI6IjBkMzc1ZjE0LTJkZWQtNDc4Ni1iNGI4LTQ5NDA5NTBiNjk5ZSIsImNsaWVudFNlY3JldCI6IlZVRVlnTnZqeW95cWdIZ1AiLCJvd25lck5hbWUiOiJHYW50YWxhIEF2aW5hc2giLCJvd25lckVtYWlsIjoiZ2FudGFsYWF2aW5hc2hAZ21haWwuY29tIiwicm9sbE5vIjoiMjFKNDFBNjJGMSJ9.j171MxvIA0OHN5KkAAoICUDhWWid38SEURdG-ZQlRYk",
+  "expires_in": 1723875997
+}
